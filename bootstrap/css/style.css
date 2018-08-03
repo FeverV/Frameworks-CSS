@@ -1,7 +1,30 @@
-.body{
-	background-color: #BE1E2D;
+body{
+	background-color: #FF780A;
+	
 }
-
-.container{
+.header{
 	background-color: white;
 }
+.redes{
+	display: flex;
+  align-items: flex-end;
+	padding: 10px;
+}
+.menu{
+	height: 10px;
+	
+}
+.contenido{
+	background-color: #e9ecef;
+}
+p{
+	text-align: justify;
+}
+.busqueda{
+	background-color: #ced4da;
+}
+
+
+/* div {
+	border: 1px solid black;
+} */
