@@ -16,10 +16,12 @@ body{
 }
 .contenido{
 	background-color: #e9ecef;
-	
 }
 p{
 	text-align: justify;
+}
+.busqueda{
+	background-color: #ced4da;
 }
 
 
